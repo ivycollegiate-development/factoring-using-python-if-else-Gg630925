@@ -19,3 +19,4 @@ def list_factors(n):
         Print(f'The factors of {nubmer}are{factors}')
 except ValusError
     
+    Print('That is an invalid number. Please input a positive interger.')
